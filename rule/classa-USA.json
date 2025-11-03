@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kiteworks.na.mattel.com",
+        "mgae-my.sharepoint.com",
+        "spinmastertoys-my.sharepoint.com",
+        "svc.ms",
+        "threesixty-my.sharepoint.com"
+      ]
+    }
+  ],
+  "version": 2
+}

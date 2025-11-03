@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fromsmash.co",
+        "fromsmash.com",
+        "ntstool.com.hk",
+        "setssl.com",
+        "u328.com",
+        "windchill.mattel.com",
+        "worldwide-design.com.hk"
+      ]
+    }
+  ],
+  "version": 2
+}

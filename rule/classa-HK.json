@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kiteworks.ap.mattel.com"
+      ]
+    }
+  ],
+  "version": 2
+}
