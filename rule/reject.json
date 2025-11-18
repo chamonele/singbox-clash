@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "acdid.acdsystems.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "acdsystems.com",
+        "adobe.io",
+        "adobestats.io",
+        "hotdoor.com"
+      ]
+    }
+  ],
+  "version": 2
+}
