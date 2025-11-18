@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/chamonele/singbox-clash/refs/heads/main/RJ.list
+https://raw.githubusercontent.com/chamonele/singbox-clash/refs/heads/main/reject.list
 https://raw.githubusercontent.com/chamonele/singbox-clash/refs/heads/main/classa-DC.list
 https://raw.githubusercontent.com/chamonele/singbox-clash/refs/heads/main/classa-HK.list
 https://raw.githubusercontent.com/chamonele/singbox-clash/refs/heads/main/classa-USA.list
