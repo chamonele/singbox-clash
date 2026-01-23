@@ -2,7 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "kiteworks.ap.mattel.com"
+        "kiteworks.ap.mattel.com",
+        "ntstool.com.hk",
+        "setssl.com",
+        "u328.com",
+        "worldwide-design.com.hk"
       ]
     }
   ],
