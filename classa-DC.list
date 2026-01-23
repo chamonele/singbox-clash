@@ -1,10 +1,10 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,u328.com
-DOMAIN-SUFFIX,worldwide-design.com.hk
-DOMAIN-SUFFIX,ntstool.com.hk
-DOMAIN-SUFFIX,setssl.com
+#DOMAIN-SUFFIX,u328.com
+#DOMAIN-SUFFIX,worldwide-design.com.hk
+#DOMAIN-SUFFIX,ntstool.com.hk
+#DOMAIN-SUFFIX,setssl.com
 DOMAIN-SUFFIX,windchill.mattel.com
 DOMAIN-SUFFIX,fromsmash.com
 DOMAIN-SUFFIX,fromsmash.co
