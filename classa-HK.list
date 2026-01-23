@@ -2,6 +2,10 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,kiteworks.ap.mattel.com
+DOMAIN-SUFFIX,u328.com
+DOMAIN-SUFFIX,worldwide-design.com.hk
+DOMAIN-SUFFIX,ntstool.com.hk
+DOMAIN-SUFFIX,setssl.com
 
 
 # 域名关键字匹配
